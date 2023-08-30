@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>David Hockney</title>
+        <center><p> <u>David Hockney</u></p></center>
+        <style>
+            body{
+                background:rgb(17, 17, 17);
+                color: rgb(212, 212, 212);
+                font-size: large;
+                margin: 100px;
+            }  
+        </style>
+    </head>
+    <center>
+        <body>
+    <p id="intro"><button onclick="DavidHockney()" type="button">David Hockney</button>
+        is an contemporary artist,</p>
+    <p id ="1"></p>
+    <p id ="2"></p>
+    <p id ="3"><i>Made by Caleb James Perkins</i></p>
+    <p id ="4"></p>
+    <p id ="5"></p>
+    <p id ="6"></p>
+    <p id ="7"></p>
+    <p id ="8"></p>
+    <p id ="9"></p>
+    <p id ="10"></p>
+    <p id ="11"></p>
+    <p id ="12"></p>
+    <p id ="13"></p>
+    <p id ="14"></p>
+    <p id ="15"></p>
+    <p id ="16"></p>
+    <p id ="17"></p>
+    <p id ="18"></p>
+    <p id ="19"></p>
+    <p id ="20"></p>
+    <img id="Splash" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_2zGhHxk.jpg" hidden width="400" height="400">
+    <img id="pool" src="https://www.hockney.com/img/gallery/paintings/60s/66B24.jpg" hidden width="400" height="400">
+    <img id="David" src="https://www.christies.com/media-library/images/features/articles/2018/07/02/david-hockney-home-made-prints/david-hockney.jpg" hidden width="415" height="295">
+    <img id="Two" src="https://www.christies.com/media-library/images/features/articles/2018/09/04/david-hockney-portrait-of-an-artist-pool-with-two-figures/58207086-bbb-white.jpg" hidden width="415" height="250">
+    <img id="ab" src="https://azurebumble.files.wordpress.com/2010/09/dh2.jpg" hidden width="500" height="269">
+    <img id="pm" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKf7GpfUGIenfAkAxeOo16SjYoQ0vp38bh-FFY375yz7T89CbN" hidden width="465" height="505">
+    <img id="ph" src="https://www.thedavidhockneyfoundation.org/storage/app/uploads/public/57d/59a/ff3/thumb__960_0_0_0_auto.jpg" hidden width="480" height="324">
+    <img id="rt" src="https://austinkleon.com/wp-content/uploads/2020/06/11257401.jpg" hidden width="512" height="341">
+    <img id="yo" src="https://www.hockney.com/img/gallery/home_images/19D03_850x316_72.jpg" hidden width="850" height="318">
+    <img id="pop" src="https://cdn.thecollector.com/wp-content/uploads/2019/12/image5-2.png?width=1200&quality=55" hidden width="400" height="510">
+    <p id ="des"><i></i></p>
+</body>
+   
+   
+    </center>
+    <script>
+        function DavidHockney(){
+            document.getElementById("1").innerHTML = "that has through his <button onclick='life()'>Life</button>,";
+            document.getElementById("2").innerHTML = "<button onclick='Education()'>Education</button> and use of many different</p>";
+            document.getElementById("3").innerHTML = "<button onclick='h()'>Styles</button> and <button onclick='In()'>Influences</button> has created many intriguing</p>";
+            document.getElementById("4").innerHTML = "<button onclick='artwork()'>Artworks</button> such as <button onclick='PBH()'>Pearblossom Highway</button>";
+            document.getElementById("5").innerHTML = " That in return has caused Hockney to achieve ";
+            document.getElementById("6").innerHTML = "many <button onclick='n()'>Awards</button>and contributions to the form of art.";
+            document.getElementById("7").innerHTML = "Website: <button onclick='b()'>Bibliography</button>";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function life(){
+            document.getElementById("1").innerHTML = "David Hockney was born on the 9th of July in 1937";
+            document.getElementById("2").innerHTML = "and still is alive today, throughout his life";
+            document.getElementById("3").innerHTML = "Hockney experimented in many different <button onclick='h()'>Styles</button>";
+            document.getElementById("4").innerHTML = "Hockney was the fourth of five children to Laura and Kenneth Hockney";
+            document.getElementById("5").innerHTML = "And as a child he lived in the time of WW2, but this showed Hockneys passion for art ";
+            document.getElementById("6").innerHTML = "by drawing on the edges of newspaper because paper was scarce";
+            document.getElementById("7").innerHTML = "Later in his life received an <button onclick='Education()'>Education</button> to many high value schools.";
+            document.getElementById("8").innerHTML = "After school Hockney made <button onclick='artwork()'>Artworks</button> which contributed to the makeing of an art movement of <button onclick='ko()'>Pop art</button>";
+            document.getElementById("9").innerHTML = "and becomming at teacher.";
+            document.getElementById("10").innerHTML = "Due to the success of his artworks Hockney achived many prestigious <button onclick='n()'>Awards</button>";
+            document.getElementById("11").innerHTML = "More information of Hockneys life written by his brother <a href='https://www.yorkshirepost.co.uk/news/the-story-of-david-hockney-and-the-famous-bradford-family-through-the-eyes-of-his-brother-john-1748669' target='blank'><button>Here</buttton>";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>David Hockney</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="Inline"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function Education(){
+            document.getElementById("1").innerHTML = "For Education Hockney went to Wellington Primary School, Bradford Grammar School,";
+            document.getElementById("2").innerHTML = "Bradford College of Art from 1953 to 1957 (to which he graduated with a first class diploma)";
+            document.getElementById("3").innerHTML = " and the Royal College of Art from 1959 to 1962. ";
+            document.getElementById("4").innerHTML = "In his schooling life Hockney met many experienced teachers in the field of art such as Frank Lisle";
+            document.getElementById("5").innerHTML = "who experimented with painting and similarities can be seen between";
+            document.getElementById("6").innerHTML = "his and Hockney's works, such as the use of rough textures and <button onclick='h()'>Style</button>";
+            document.getElementById("7").innerHTML = "After Hockneys school life Hockney became a teacher for many schools such as; Maidstone College of Art in 1962,";
+            document.getElementById("8").innerHTML = "University of Iowa in 1964, University of Boulder in 1965, University of California in 1966 ";
+            document.getElementById("9").innerHTML = "and many other schools where Hockney keep refining his art style.";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>From Spring Cannot Be Cancelled / 2021</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="Inline"
+            document.getElementById("pop").style.display="none"
+        }
+        function h(){
+            document.getElementById("1").innerHTML = "Throughout his life, Hockney experimented with many different art styles";
+            document.getElementById("2").innerHTML = " such as <button onclick='expressionist()'>Expressionist</button> in his early works, <button onclick='Acrylic()'>Vibrant Acrylic paints</button>,";
+            document.getElementById("3").innerHTML = " such as <button onclick='modernism()'>Modernism</button>, <button onclick='abstractism()'>Abstractism</button>, rough textures and even 'pioneering'<button onclick='ko()'>Pop art</button>";
+            document.getElementById("4").innerHTML = " Hockney also used many different types of <button onclick='artwork()'>Art Forms</button>";
+            document.getElementById("5").innerHTML = "";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function expressionist(){
+            document.getElementById("1").innerHTML = "Expressionist artworks are based around the key idea of reality being distorted";
+            document.getElementById("2").innerHTML = "in a way to reflect the artist's concepts of emotion explored";
+            document.getElementById("3").innerHTML = "throughout the artwork which notably can be seen to some extent in the <button onclick='ko()'>Pop art</button> movement";
+            document.getElementById("4").innerHTML = "and at the start of Hockney's career he experimented with it.";
+            document.getElementById("5").innerHTML = "An example of this is David Hockneys <button onclick='A()'>A Bigger Splash</button>";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>A Bigger Splash / 1966 / 180 cm x 180 cm</i>";
+            document.getElementById("Splash").style.display="Inline"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function Acrylic(){
+            document.getElementById("1").innerHTML = "Acrylic paints were developed in 1934 by BASF but started to get used in the 1940s ";
+            document.getElementById("2").innerHTML = "because they dried quickly, were cheap and most importantly to Hockney,";
+            document.getElementById("3").innerHTML = "held colour in a different more impactful vibrant way, that is seen in Hockney's early pool artworks.";
+            document.getElementById("4").innerHTML = "An example of this art style is 'Portrait of Nick Wilder' made in 1966";
+            document.getElementById("5").innerHTML = "Placed upon canvas that is 72 x 72";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Portrait of Nick Wilder / 1966 / 72 x 72</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="Inline"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function modernism(){
+            document.getElementById("1").innerHTML = "Modernism is the idea to be different from the classical and traditional forms of expression can be repersented in may form.";
+            document.getElementById("2").innerHTML = "Modernism began in the late 90s, and is referenced in Hockney's pool paintings";
+            document.getElementById("3").innerHTML = "that was influenced by the concept of the modern home designs that hockney saw most notability being Case Study House #21.";
+            document.getElementById("4").innerHTML = "Hockney was influenced by is Pablo Picasso in his Cubism period and influenced was Henri Matisse";
+            document.getElementById("5").innerHTML = "in his use of shapes layed over each other which influencedHockneys <button onclick='Photography()'>Photo Collages</button>";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function abstractism(){
+            document.getElementById("1").innerHTML = "Abstractism explores themes such as shapes, colour, and texture that are all present";
+            document.getElementById("2").innerHTML = "in Hockney's work such as in his photo career.";
+            document.getElementById("3").innerHTML = "He did this by the use of lining up different connected or unconnected photos that have a sort of";
+            document.getElementById("4").innerHTML = "cartoon and realistic texture because of their difference in colour shape and texture.";
+            document.getElementById("5").innerHTML = "";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>The Other Side / 1993 / 101cm x 63cm</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="Inline"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function n(){
+            document.getElementById("1").innerHTML = "During Hockneys Art career, He has achived many awards.";
+            document.getElementById("2").innerHTML = "Hockneys first majour award was the First Prize, Guiness for Etching 1n 1961";
+            document.getElementById("3").innerHTML = "In 1962 Hockney won a gold medal, at the Royal College of Art";
+            document.getElementById("4").innerHTML = "He also won first prize in the 8th international Exhibition of Graphic Art in 1964";
+            document.getElementById("5").innerHTML = "Gold medal, International Print 1982, Kodak Photography in 1984";
+            document.getElementById("6").innerHTML = "<button onclick='mea()'>Most Expensive </button> artwork sold at auction while the artist is still currently alive";
+            document.getElementById("7").innerHTML = "Along with many other awards for more information see David Hockney Foundation <a href='https://www.thedavidhockneyfoundation.org/resources/education-awards' target='blank'><button>Here</buttton>";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function mea(){
+            document.getElementById("1").innerHTML = "Between November 15, 2018, to the 15th of May 2019, Hockney was given the award of ";
+            document.getElementById("2").innerHTML = "most expensive artwork sold at auction while the artist is still currently alive, and this artwork";
+            document.getElementById("3").innerHTML = "was the work <button onclick='pool()'>Pool with Two Figures</button> which was made in May 1972 which was sold for 90";
+            document.getElementById("4").innerHTML = "million dollars in New York's Christie's auction house and was consisted of being made out ";
+            document.getElementById("5").innerHTML = "of Acrylic and was a key example of the <button onclick='ko()'>Pop art</button> Movement that Hockney was highly";
+            document.getElementById("6").innerHTML = "intrigued and apart of. The image that was sold was 2.1 metres by 3.0 metres and was";
+            document.getElementById("7").innerHTML = "influenced by his trip to California in 1964 where Hockney became interested in the concept of <button onclick='modernism()'>Modernism</button> ";
+            document.getElementById("8").innerHTML = "by inspiration of Case Study House #21 which he visited. Another aspect of the artwork is the use";
+            document.getElementById("9").innerHTML = "of pools, throughout Hockney's extensive catalogue a key theme explored is the idea of";
+            document.getElementById("10").innerHTML = "pools. The first Collection of pools was in the California Art Collector in 1964 where in one ";
+            document.getElementById("11").innerHTML = "way or another; Pools, modernism or both were explored by use of acrylic painting on canvas.";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Pool with Two Figures / 1972 / 210 cm x 300 cm</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="Inline"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function pool(){
+            document.getElementById("1").innerHTML = "Perhaps David Hockneys most know painting, 'Portrait of an Artist (Pool with Two Figures)'";
+            document.getElementById("2").innerHTML = "Compleated In May of 1972 made with <button onclick='Acrylic()'>Acrylic</button> paint upon the base of canvas.";
+            document.getElementById("3").innerHTML = "The painting measures 2.1 m by 3.0 m and at one stage was the <button onclick='mea()'>Most Expensive </button> artwork sold at auction (within some parameters)";
+            document.getElementById("4").innerHTML = "This piece is an example of <button onclick='modernism()'>Modernism</button>";
+            document.getElementById("5").innerHTML = "";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Pool with Two Figures / 1972 / 210 cm x 300 cm</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="Inline"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function artwork(){
+            document.getElementById("1").innerHTML = "Throughout Hockneys career, he has experimented with art forms such as;";
+            document.getElementById("2").innerHTML = "<button onclick='Photography()'>Photography</button>";
+            document.getElementById("3").innerHTML = "<button onclick='Stage()'>Stage Design</button>";
+            document.getElementById("4").innerHTML = "<button onclick='Painting()'>Painting</button>";
+            document.getElementById("5").innerHTML = "<button onclick='Print()'>Print-Making</button>";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function Photography(){
+            document.getElementById("1").innerHTML = "Hockney in the 1980's expermented with the concept of photography and the idea of photo collages which he has put his own spin upon.";
+            document.getElementById("2").innerHTML = "He did this by joining images in a way to create a kind of cartoon effect with the mixture of textures ";
+            document.getElementById("3").innerHTML = "and this resulted in hocker coining the term joiners.";
+            document.getElementById("4").innerHTML = "Through Hockneys life the joniners changed and evolved first by at the start of his career by having the images layed out organised in a grid (as seen below)";
+            document.getElementById("5").innerHTML = "He layed them out organised because of the square shape of polaroids and this can been seen as a from of cubism which is theme of <button onclick='modernism()'>Modernism</button>";
+            document.getElementById("6").innerHTML = "In 1982, Drawing with a Camera, Hockneys was first photography expedition in New York.";
+            document.getElementById("7").innerHTML = "Later in his career, Hockney started to lean into the <button onclick='abstractism()'>Abstract</button> concept of photography, where he connected the photo joiners ";
+            document.getElementById("8").innerHTML = "rather than just laying them out in a grid and this can be seen in his most famous example of this, <button onclick='PBH()'>Pearblossson Highway</button>";
+            document.getElementById("9").innerHTML = "For more information see <a href='https://www.juxtapoz.com/news/photography/david-hockney-s-joiners/' target='blank'><button>Here</buttton>";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Sun On The Pool Los Angeles / 1982</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="Inline"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function Stage(){
+            document.getElementById("1").innerHTML = "Throughout Hockneys life, he his has experimented with art forms such as stage design.";
+            document.getElementById("2").innerHTML = "Stage design is basicly the sets in productions and plays.";
+            document.getElementById("3").innerHTML = "Hockney has experimented with stage design with acts such as The Rakes Process";
+            document.getElementById("4").innerHTML = "That was performed in glyndebourne in 1975";
+            document.getElementById("5").innerHTML = "";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function Painting(){
+            document.getElementById("1").innerHTML = "Perhaps Hockneys most popular art form that he has used is painting.";
+            document.getElementById("2").innerHTML = "Hockneys has used painting to show different <button onclick='h()'>Styles</button> ";
+            document.getElementById("3").innerHTML = "Even Hockneys <button onclick='mea()'>Most Expensive </button>  artwork is an painting";
+            document.getElementById("4").innerHTML = "";
+            document.getElementById("5").innerHTML = "";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function Print(){
+            document.getElementById("1").innerHTML = "During his time, Hockney has experimented with concepts such as print-making";
+            document.getElementById("2").innerHTML = "and his most known example of this is the Fish and Chip Shop that was made by Hockney in his teenage years.";
+            document.getElementById("3").innerHTML = "This image is a lithograph and was made in 1951";
+            document.getElementById("4").innerHTML = "and was given to the fish and chip shop where the image is based upon";
+            document.getElementById("5").innerHTML = "";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("12").innerHTML = "but for more information see <a href='https://www.theguardian.com/artanddesign/2017/feb/14/david-hockney-print-fish-and-chip-shop-bradford' target='blank'><button>Here</buttton>";
+            document.getElementById("des").innerHTML = "<i>Fish and Chip Shop / 1951</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="Inline"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+            function PBH(){
+            document.getElementById("1").innerHTML = "Pearblossom Highway is a 'joiner' made by Hockney between the 11th and the 18th of April ";
+            document.getElementById("2").innerHTML = "in 1986. The image consists of many related images of a desert dry environment with a 2 ";
+            document.getElementById("3").innerHTML = "lane-wide road with signs along the right-hand side such as California State Route 138, a";
+            document.getElementById("4").innerHTML = "stop sign, a sign saying stop ahead, and a street sign post reading the name of the artwork ";
+            document.getElementById("5").innerHTML = "'Pearblossom Highway'. The image also consists of cactuses like plants placed off both ";
+            document.getElementById("6").innerHTML = "sides of the road and signs of pollution across the image such as bottles and cans. ";
+            document.getElementById("7").innerHTML = "<button onclick='next()'>Next</buttton>";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Pearblossom Highway / 1986 / 181.6 cm x 271.8 cm</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="Inline"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function next(){
+            document.getElementById("1").innerHTML = "The common thought about the meaning of this photo is a call to action for us the people to ";
+            document.getElementById("2").innerHTML = "slow down and observe the damage we are doing to the environment. Hockenys has done ";
+            document.getElementById("3").innerHTML = "this by many techniques such as framing. In the image an essential factor is the use of ";
+            document.getElementById("4").innerHTML = "distance, utilising having a highly salient stop sign warnings up in the for-ground where the ";
+            document.getElementById("5").innerHTML = "audience first then sees the writing on the road saying ahead stop in the mid-ground and ";
+            document.getElementById("6").innerHTML = "finally a stop sign positioned closer to the background creates a vector on the right side to ";
+            document.getElementById("7").innerHTML = "where if we were in California we would be driving on that side of the road. Continuing ";
+            document.getElementById("8").innerHTML = "driving we would see that stopping is ahead and we need to slow down as both a metaphor ";
+            document.getElementById("9").innerHTML = "as stopping pollution and literally as it being a stop sign, and in doing so we as the audience ";
+            document.getElementById("10").innerHTML = "can observe the whole image and see the pollution that was small and hidden when looking ";
+            document.getElementById("11").innerHTML = "at this image at a distance placed in the foreground which then contrasts with the desert ";
+            document.getElementById("12").innerHTML = "environment by first colour.";
+            document.getElementById("13").innerHTML = "<button onclick='nexta()'>Next</buttton>";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Pearblossom Highway / 1986 / 181.6 cm x 271.8 cm</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="Inline"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function nexta(){
+            document.getElementById("1").innerHTML = "Most of the pollution is from the company Bud Light which can be seen on the cardboard ";
+            document.getElementById("2").innerHTML = "boxes and the bottles and cans and personality the message is about accusing Bud Light of ";
+            document.getElementById("3").innerHTML = "pollution but rather the use of Bud Light by Hockney is the because the soul colour choice ";
+            document.getElementById("4").innerHTML = "the company uses is a light blue contrasts with the light yellowish orange which on the colour ";
+            document.getElementById("5").innerHTML = "wheel are triadic colours and when next to each other creates a strong contrast. Secondly,";
+            document.getElementById("6").innerHTML = "the contrast is also created by utilising the texture of the artificial plastics, metals and ";
+            document.getElementById("7").innerHTML = "cardboard to the use of more natural sand and plant life which in return makes us feel like";
+            document.getElementById("8").innerHTML = "the pollution should not be there and adds to the message of environmental protection. The ";
+            document.getElementById("9").innerHTML = "image creates interest by how unique the idea of Hockney's use of joiners and the concept ";
+            document.getElementById("10").innerHTML = "of repetition and pattern that is made by layering photos on top of eachother where us as the ";
+            document.getElementById("11").innerHTML = "audience can clearly see the abrupt borders of each photo that creates this sort of distorted ";
+            document.getElementById("12").innerHTML = "or hazy effect.";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Pearblossom Highway / 1986 / 181.6 cm x 271.8 cm</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="Inline"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function In(){
+            document.getElementById("1").innerHTML = "Like all artists, Hockney has had many inspirations.";
+            document.getElementById("2").innerHTML = "These inspirations range from Jackson Pollock and his abstract texture based artworks to ";
+            document.getElementById("3").innerHTML = "Picasso in his concepts of geometrical ideas and both of them can be seen in Hockney's ";
+            document.getElementById("4").innerHTML = "works. The use of geometrical ideas can be seen from Hockney's <button onclick='pool()'>Pool paintings</button> and ";
+            document.getElementById("5").innerHTML = "Jackson Pollock can be seen in some of Hockenys texture used in his later artworks such as ";
+            document.getElementById("6").innerHTML = "his <button onclick='Photography()'>Photography.</button>";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i></i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="none"
+        }
+        function ko(){
+            document.getElementById("1").innerHTML = "In his life, David Hockney is seen to be involved in the pop art movement.";
+            document.getElementById("2").innerHTML = "Pop art is the idea to move away from traditional art forms and focus on more random art mediums ";
+            document.getElementById("3").innerHTML = "For example these mediums can be from comic books and even advertising.";
+            document.getElementById("4").innerHTML = "";
+            document.getElementById("5").innerHTML = "";
+            document.getElementById("6").innerHTML = "";
+            document.getElementById("7").innerHTML = "";
+            document.getElementById("8").innerHTML = "";
+            document.getElementById("9").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("11").innerHTML = "";
+            document.getElementById("12").innerHTML = "";
+            document.getElementById("13").innerHTML = "";
+            document.getElementById("14").innerHTML = "";
+            document.getElementById("15").innerHTML = "";
+            document.getElementById("16").innerHTML = "";
+            document.getElementById("17").innerHTML = "";
+            document.getElementById("18").innerHTML = "";
+            document.getElementById("19").innerHTML = "";
+            document.getElementById("10").innerHTML = "";
+            document.getElementById("des").innerHTML = "<i>Garrowby Hill / 1998 / 122cm x 244 cm</i>";
+            document.getElementById("Splash").style.display="none"
+            document.getElementById("pool").style.display="none"
+            document.getElementById("David").style.display="none"
+            document.getElementById("Two").style.display="none"
+            document.getElementById("ab").style.display="none"
+            document.getElementById("pm").style.display="none"
+            document.getElementById("ph").style.display="none"
+            document.getElementById("rt").style.display="none"
+            document.getElementById("yo").style.display="none"
+            document.getElementById("pop").style.display="Inline"
+        }
+    </script>
+</html>
+
